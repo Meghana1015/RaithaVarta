@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रायथा वार्ता</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="welcome">स्वागत किसान</string>
+    <string name="home_title">कृषि सुझाव</string>
+</resources>

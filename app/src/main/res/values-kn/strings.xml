@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ರೈತ ವಾರ್ತೆ</string>
+    <string name="welcome">ಸ್ವಾಗತ ರೈತರಿಗೆ</string>
+    <string name="enter_app">ಆಪ್ ಪ್ರವೇಶಿಸಿ</string>
+    <string name="daily_tip">ಇಂದಿನ ಕೃಷಿ ಸಲಹೆ</string>
+    <string name="expert_ask">ತಜ್ಞರನ್ನು ಕೇಳಿ</string>
+    <string name="success_story">ಯಶೋಗಾಥೆ</string>
+    <string name="home_title">ಕೃಷಿ ಸಲಹೆಗಳು</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ரைத்த வார்த்தா</string>
+    <string name="select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="welcome">வரவேற்கிறோம் விவசாயி</string>
+    <string name="home_title">விவசாய குறிப்புகள்</string>
+</resources>

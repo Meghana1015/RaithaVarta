@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">రైత వార్త</string>
+    <string name="select_language">భాషను ఎంచుకోండి</string>
+    <string name="welcome">స్వాగతం రైతు</string>
+    <string name="home_title">వ్యవసాయ సూచనలు</string>
+</resources>
